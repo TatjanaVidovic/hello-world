@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+My name is Tania. I'm a 25 years old. I stady IT in Belgrade. 
+I expect a lot from this. 
+
